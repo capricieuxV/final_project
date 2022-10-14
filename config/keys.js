@@ -4,12 +4,12 @@ module.exports={
         Password: 'WebwareCS4241'
     },
     github: {
-        clientID: '84ccec101fd8fdd73324',
-        clientSecret: 'e55cb851e6469d736960b2e80646f790ef4be5ca'
+        clientID: '9329121063b6b17cc27f',
+        clientSecret: '3b5cd76dc50ac9996192677d6ab7cdce60bcfc5c'
     },
     google: {
-        clientID: '491086014428-s13c4i8vc71q07q32fsn3d34u0ni9dig.apps.googleusercontent.com',
-        clientSecret: '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'
+        clientID: '807610127785-1bpmrpthc9580pjdm7d68frc48kvmbi7.apps.googleusercontent.com',
+        clientSecret: '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'
     },
     Cookie: {
         key: 'Final_project'
